@@ -1,6 +1,6 @@
 # Corrupt-PNGs
 
-A PowerShell script that applies visual glitch and corruption effects to PNG files recursively. Output files are still **valid, openable PNGs** — they just look messed up.
+A PowerShell script that applies visual glitch and corruption effects to PNG files recursively.
 
 Originally made to corrupt a Minecraft resource pack for a video, but works on any folder of PNGs.
 
