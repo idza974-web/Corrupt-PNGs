@@ -4,7 +4,7 @@
 #
 # Usage:
 #   .\Corrupt-PNGs.ps1 -Directory "C:\path\to\folder"
-#   .\Corrupt-PNGs.ps1 -Directory "C:\path\to\folder" -Intensity 0.8
+#   .\Corrupt-PNGs.ps1 -Directory "C:\path\to\folder" -Intensity 1
 #   .\Corrupt-PNGs.ps1 -Directory "C:\path\to\folder" -BackupOriginals
 #   .\Corrupt-PNGs.ps1 -Directory "C:\path\to\folder" -OutputDirectory "C:\glitched"
 
